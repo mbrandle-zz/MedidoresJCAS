@@ -1,0 +1,9 @@
+C:\Users\MBrandle\Documents\Visual Studio 2010\Projects\MedidoresJCAS\MedidoresJCAS\bin\Debug\MedidoresJCAS.exe.config
+C:\Users\MBrandle\Documents\Visual Studio 2010\Projects\MedidoresJCAS\MedidoresJCAS\bin\Debug\MedidoresJCAS.exe
+C:\Users\MBrandle\Documents\Visual Studio 2010\Projects\MedidoresJCAS\MedidoresJCAS\bin\Debug\MedidoresJCAS.pdb
+C:\Users\MBrandle\Documents\Visual Studio 2010\Projects\MedidoresJCAS\MedidoresJCAS\obj\x86\Debug\MedidoresJCAS.frmMedidores.resources
+C:\Users\MBrandle\Documents\Visual Studio 2010\Projects\MedidoresJCAS\MedidoresJCAS\obj\x86\Debug\MedidoresJCAS.Properties.Resources.resources
+C:\Users\MBrandle\Documents\Visual Studio 2010\Projects\MedidoresJCAS\MedidoresJCAS\obj\x86\Debug\MedidoresJCAS.csproj.GenerateResource.Cache
+C:\Users\MBrandle\Documents\Visual Studio 2010\Projects\MedidoresJCAS\MedidoresJCAS\obj\x86\Debug\MedidoresJCAS.exe
+C:\Users\MBrandle\Documents\Visual Studio 2010\Projects\MedidoresJCAS\MedidoresJCAS\obj\x86\Debug\MedidoresJCAS.pdb
+C:\Users\MBrandle\Documents\Visual Studio 2010\Projects\MedidoresJCAS\MedidoresJCAS\obj\x86\Debug\MedidoresJCAS.csprojResolveAssemblyReference.cache
